@@ -1,4 +1,4 @@
-﻿*Vertices 61
+﻿*Vertices 80
 1 "paalna " ic Green
 2 "jeeb" ic Red
 3 "bhasha" ic Green
@@ -60,6 +60,26 @@
 59 "kiwāṛ" ic Red
 60 "ber" ic Red
 61 "mahaṅgā" ic Red
+62 "bolī" ic Red
+63 "lallo" ic Red
+64 "bāt" ic Red
+65 "muḥāwara" ic Blue
+66 "ukti" ic Green
+67 "bāk" ic Red
+68 "kahā" ic Red
+69 "bhākhā" ic Red
+70 "muẕākara" ic Blue
+71 "guft" ic Blue
+72 "bhāshit" ic Green
+73 "kathit" ic Green
+74 "bhaṇit" ic Green
+75 "ākhyāt" ic Green
+76 "bābat" ic Blue
+77 "bishay" ic Red
+78 "qiṣṣa" ic Blue
+79 "kām" ic Red
+80 "kār" ic Blue
+81 "kāj" ic Red
 *edgeslist
 1 13 8 15 7 
 2 10 
@@ -122,3 +142,23 @@
 59 56
 60 47
 61 55
+62 3 10
+63 2 10
+64 62
+65 64
+66 62 64
+67 64 
+68 64 62 66
+69 3 10 62
+70 64
+71 64 68
+72 68
+73 72 68
+74 73 72 68 66
+75 74 73 72 68 
+76 64
+77 76
+78 64
+79 64
+80 64 79
+81 64
