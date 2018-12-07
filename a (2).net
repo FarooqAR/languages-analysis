@@ -1,4 +1,4 @@
-﻿*Vertices 80
+*Vertices 100
 1 "paalna " ic Green
 2 "jeeb" ic Red
 3 "bhasha" ic Green
@@ -80,6 +80,25 @@
 79 "kām" ic Red
 80 "kār" ic Blue
 81 "kāj" ic Red
+82 "kahānī" ic Red
+83 "pari-kathā" ic Green
+84 "dāstān" ic Blue
+85 "ḥikāyat" ic Blue
+86 "afsāna" ic Blue
+87 "vyāpār" ic Green
+88 "rozgār" ic Purple
+89 "byāpār" ic Red
+90 "shewa" ic Blue
+91 "ʻādat" ic Purple
+92 "ḵẖaṣlat" ic Blue
+93 "andār" ic Blue
+94 "sifat" ic Purple
+95 "baṛhiyā" ic Red
+96 "naukarī" ic Purple
+97 "nafarī" ic Blue 
+98 "mulāzimī" ic Purple
+99 "ćākarī" ic Blue
+100 "ḵẖidmat" ic Purple
 *edgeslist
 1 13 8 15 7 
 2 10 
@@ -161,4 +180,23 @@
 78 64
 79 64
 80 64 79
-81 64
+81 64 80
+82 78
+83 82 78
+84 83 82 78
+85 84
+86 82
+87 81
+88 87
+89 79 88 90 79
+90 79
+91 90
+92 91
+93 86 82
+94 92
+95 53 55
+96 79
+97 79
+98 96 79
+99 96 98
+100 98
