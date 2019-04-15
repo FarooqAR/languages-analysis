@@ -1,0 +1,3 @@
+# Languages Analysis
+## Introduction
+Languages we speak evolve with time. This research project aims to analyze different languages and find out the relationships between each other.  Three languages i.e. Hindustani, Sanskrit and Persian have been chosen which have a deep influence on each other. In this project, the words of these three languages are mapped as a network graph. The connections of these words are based on similarities in their meanings, phonetics and etymological background. We then use Gephi, Pajek and Tulip — analysis and graph visualization softwares — to determine interesting quantifiable properties, such as how close a particular word in one language is similar from another.
